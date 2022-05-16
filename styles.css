@@ -1,0 +1,27 @@
+form {
+  background-color: rgb(230, 230, 232);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+fieldset {
+  padding-left: 5rem;
+}
+legend {
+  text-align: center;
+  font-size: 30px;
+}
+fieldset div {
+  margin: 9px;
+}
+label {
+  margin-right: 25px;
+}
+button {
+  background-color: rgb(173, 222, 173);
+  font-size: larger;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.buttonHolder {
+  text-align: center;
+}
